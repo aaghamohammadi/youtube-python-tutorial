@@ -1,0 +1,4 @@
+black
+isort
+pandas
+tabulate
